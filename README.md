@@ -27,12 +27,9 @@ precisos.
 
 ## 🧮 Modelo cinemático
 
-**Cinemática directa:**
+**Cinemática inversa:** -
 
-    T = RotZ(θ₁) · RotY(θ₂) · RotY(θ₃) · Translation(L)
-
-**Cinemática inversa:** - θ₁ = atan2(y, x) - θ₂ y θ₃ derivadas por
-geometría esférica
+     θ₁ = atan2(y, x) - θ₂ y θ₃ derivadas por geometría esférica
 
 ## 🔌 Electrónica
 
